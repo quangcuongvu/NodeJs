@@ -17,3 +17,7 @@ var sayGoodbye=function () {
 
 sayGoodbye();
 
+logSaying(function () {
+    console.log("Hello NodeJs!!!")
+})
+
