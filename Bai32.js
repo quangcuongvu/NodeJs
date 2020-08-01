@@ -13,3 +13,5 @@ console.log(`Tôi là ${person.name}, và tôi ${person.age} tuổi!
             "lêu lêu"
 
 `);
+
+console.log("hello");
